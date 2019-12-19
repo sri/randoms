@@ -1,0 +1,8 @@
+Generate a list of random number.
+
+Usage
+=====
+go run randoms.go \
+  -n <total-number-of-random-numbers-to-generate | default=1> \
+  -start <start-range (inclusive) | default=1> \
+  -end <end-range (inclusive) | default=100>
